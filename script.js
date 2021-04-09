@@ -62,6 +62,10 @@ function time(dt, tz) {
     hour = "0" + hour;
   }
 
+  if (day < 10) {
+    day = "0" + day;
+  }
+
   if (month < 10) {
     month = "0" + month;
   }
