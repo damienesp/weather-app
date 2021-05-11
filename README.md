@@ -9,5 +9,5 @@ A weather app built with JavaScript and the OpenWeather API.
 ## Development
 
 ```bash
-$ git clone https://github.com/damienesp/mauvie.git
+$ git clone https://github.com/damienesp/weather-app.git
 ```
